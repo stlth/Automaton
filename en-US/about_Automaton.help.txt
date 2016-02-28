@@ -1,0 +1,8 @@
+PSTOPIC
+	about_Automaton
+SHORTDESCRIPTION
+	Example module that can perform a self-update check.
+LONGDESCRIPTION
+	Example module that can perform a self-update check.
+DETAILED DESCRIPTION
+	Example module that can perform a self-update check.
