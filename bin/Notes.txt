@@ -1,0 +1,1 @@
+This directory contains already compiled or dependency binary files that are required for use alongside the module's various cmdlets.
