@@ -6,7 +6,7 @@
 # An additional WARNING: This code example is a prime reason to have your code signed!
 # If something malicious were to happen on the repository it could be used in a way to download to the particular device and perform it's own actions.
 #
-# This script assumes you have placed a copy of the module into: "$env:HOMEDRIVE\$env:HOMEPATH\Documents\WindowsPowerShell\Modules\<Module>"
+# This script assumes you have placed a copy of the module into: "$env:HOMEDRIVE$env:HOMEPATH\Documents\WindowsPowerShell\Modules\<Module>"
 #
 
 $ModulePath = $(Get-Variable -Name MyInvocation).Value.PSScriptRoot
